@@ -1,0 +1,3 @@
+ADMIN URL: http://localhost/filemanagement/Private_Dashboard/
+email: admin@campcodes.com
+password: admin123
